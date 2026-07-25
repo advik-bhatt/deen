@@ -1,0 +1,142 @@
+{
+  "_meta": {
+    "title": "Cross-traditional vice / cognitive-distortion concept graph",
+    "generated": "2026-07-25",
+    "method": "deep-research 11-agent fan-out (see README.md)",
+    "confidence_ceiling": "No primary text fetched from source host this session (egress 403). Loci carry the model's confidence; the load-bearing ones were independently re-verified by a citation agent. Verify [M]/[L] against a primary edition before quoting.",
+    "edge_types": {
+      "documented-diffusion": "one tradition demonstrably copied/inherited from another (traceable lineage)",
+      "shared-vocabulary": "same root-terms drawn from a common word-hoard (esp. Indic raga/dvesa/moha/avidya)",
+      "structural-parallel": "independent, non-genealogical resemblance in structure",
+      "false-friend": "looks parallel, is a category error or translation accident"
+    },
+    "thesis_status": "DEMOTED. Not 'independent discoveries of one object' but 'shared vocabulary + family resemblance + one real transmission (Stoa->CBT) usually misfiled as convergence'. See README §4."
+  },
+  "axes": [
+    {
+      "id": 1, "structure": "self-elevation / status-grasping",
+      "seven_sin": "superbia (pride) + inanis gloria (vainglory)",
+      "traditions": {
+        "greek_christian": "hyperephania + kenodoxia (Evagrius Praktikos 6)",
+        "jewish": "gaavah; kavod-seeking (Pirkei Avot 4:21); Rambam De'ot 2:3 flee to extreme",
+        "islamic_quran": "kibr/istikbar — Iblis 'ana khayrun minhu' (Q 7:12, 2:34)",
+        "hindu": "mada (sadripu #5) + ahankara (I-maker)",
+        "buddhist": "mana (conceit; a higher fetter, AN 10.13)",
+        "sikh_jain": "Sikh ahankar (5th thief) / Jain mana (2nd kasaya)"
+      },
+      "cbt_distortion": "global positive self-labeling; 'always right'; magnify-self/minimize-others",
+      "mechanism": "self-schema 'I must be superior' runs the mental filter, manufacturing inflated self-appraisal; vainglory = same schema conditional on audience"
+    },
+    {
+      "id": 2, "structure": "acquisitive grasping (security through goods)",
+      "seven_sin": "avaritia (greed)",
+      "traditions": {
+        "greek_christian": "philargyria",
+        "jewish": "GAP — no discrete head; ta'avah covers it broadly",
+        "islamic_quran": "bukhl (Q 3:180, 47:38; = withholding, narrower) + hubb al-dunya (Q 75:20)",
+        "hindu": "lobha (sadripu #3; hell-gate Gita 16.21)",
+        "buddhist": "lobha (akusala-mula, AN 3.69)",
+        "sikh_jain": "Sikh lobh / Jain lobha ('lobho savva-vinasano', Dasavaikalika 8)"
+      },
+      "cbt_distortion": "'safe/worthy only if I have more' + catastrophizing scarcity + emotional reasoning",
+      "mechanism": "future-threat appraisal drives accumulation as anxiety-management; goods never sufficient because the schema generates the threat (cf Daodejing 46)"
+    },
+    {
+      "id": 3, "structure": "appetitive craving (over-valuing a present good)",
+      "seven_sin": "luxuria (lust) + gula (gluttony) — one appetite split into two",
+      "traditions": {
+        "greek_christian": "porneia + gastrimargia",
+        "jewish": "ta'avah (Avot 4:21; Num 15:39) — but channeled it is 'very good'",
+        "islamic_quran": "shahwa/shahawat (Q 3:14) — one drive the Latin halves",
+        "hindu": "kama (sadripu #1; hell-gate) — cosmogonically prior & good (RV 10.129.4)",
+        "buddhist": "kama-raga / kamacchanda (1st hindrance)",
+        "sikh_jain": "Sikh kaam / Jain NO cognate (filed under quasi-passions)"
+      },
+      "cbt_distortion": "emotional reasoning ('I crave it -> acting warranted') + fortune-telling + minimizing consequences",
+      "mechanism": "craving -> automatic thought taken as fact; predicted satisfaction is a fortune-telling error; two traditions insist the drive is good-when-channeled"
+    },
+    {
+      "id": 4, "structure": "aversive reactivity (anger at a violated 'ought')",
+      "seven_sin": "ira (wrath)",
+      "traditions": {
+        "greek_christian": "orge",
+        "jewish": "ka'as (Rambam De'ot 2:3 — 2nd extreme-avoidance trait)",
+        "islamic_quran": "ghadab (systematized by Ghazali)",
+        "hindu": "krodha (sadripu #2) — TRANSFORM of thwarted kama (Gita 2.62)",
+        "buddhist": "dosa/dvesa (2nd root); vyapada (2nd hindrance)",
+        "sikh_jain": "Sikh krodh / Jain krodha (1st kasaya)"
+      },
+      "cbt_distortion": "should-statements (Ellis) + hostile-intent mind-reading + personalization",
+      "mechanism": "CLEANEST fit + strongest non-diffusion convergence: violated rigid 'must' + hostile-intent inference; Gita 2.62 krodha-from-thwarted-kama = CBT frustration->anger"
+    },
+    {
+      "id": 5, "structure": "comparison-resentment (begrudging another's good)",
+      "seven_sin": "invidia (envy) — LATE Gregorian insert",
+      "traditions": {
+        "greek_christian": "no Evagrian cognate; nearest 'evil eye' (Mk 7:22)",
+        "jewish": "kin'ah (Avot 4:21)",
+        "islamic_quran": "hasad (Q 113:5, 4:54)",
+        "hindu": "matsarya (sadripu #6)",
+        "buddhist": "issa (secondary, mode of dosa)",
+        "sikh_jain": "ABSENT from both — major break in the 'universal' list"
+      },
+      "cbt_distortion": "upward comparison + fairness-fallacy + discount-own/inflate-other + zero-sum fortune-telling",
+      "mechanism": "socially-scoped application of the self-schema; dropped by the traditions least focused on interpersonal status"
+    },
+    {
+      "id": 6, "structure": "dejection / anhedonic collapse",
+      "seven_sin": "tristitia -> acedia -> 'sloth' (the UNSTABLE head)",
+      "traditions": {
+        "greek_christian": "lype + akedia ('noonday demon')",
+        "jewish": "GAP — atzvut discouraged, not a vice",
+        "islamic_quran": "GAP + REVERSAL — huzn can be virtuous; kasal never cardinal",
+        "hindu": "NO vice-head — visada is a stage to transcend",
+        "buddhist": "thina-middha (near it by TRANSLATION ACCIDENT only)",
+        "sikh_jain": "absent from both"
+      },
+      "cbt_distortion": "the cognitive triad itself + overgeneralization + disqualifying positive + hopelessness",
+      "mechanism": "CBT out-describes every religion here; the tradition that studied it most (monasticism) couldn't hold it stable for 1000 yrs = clinical syndrome forced into a moral category"
+    },
+    {
+      "id": 7, "structure": "attachment / clinging (to 'mine', to continuance)",
+      "seven_sin": "NO cognate (nearest covetousness, but that is acquisitive)",
+      "traditions": {
+        "greek_christian": "no direct cognate; concupiscence (1 John 2:16) is the substrate",
+        "jewish": "no vice-head; yetzer's grip is native/good",
+        "islamic_quran": "hawa idolized (Q 45:23) + hubb al-dunya",
+        "hindu": "moha (sadripu #4) + raga + abhinivesa (clinging to life, YS 2.9)",
+        "buddhist": "upadana / tanha (the 'river', Dhp 251)",
+        "sikh_jain": "Sikh moh (4th thief) / Jain mohaniya karma"
+      },
+      "cbt_distortion": "'I need X / my own permanence to be okay' + catastrophizing loss",
+      "mechanism": "abhinivesa = death-anxiety schema; deepest vice is refusing impermanence; no seven-sins slot because Christian scheme moralizes willing-toward-objects, not the transient-as-permanent error"
+    },
+    {
+      "id": 8, "structure": "root misperception (ignorance upstream of all affect)",
+      "seven_sin": "NO cognate whatsoever — scheme moralizes the WILL, not the intellect",
+      "traditions": {
+        "greek_christian": "nearest 'darkened understanding' — a consequence, not cause",
+        "jewish": "none as a vice; sin is het ('missing the mark'), an act",
+        "islamic_quran": "PARTIAL — rusted/hardened heart failing to perceive (Q 83:14, 2:74)",
+        "hindu": "moha-as-delusion; at root avidya (YS 2.4-5)",
+        "buddhist": "moha/avijja — THE root (SN 12.2); the pig leading cock & snake",
+        "sikh_jain": "Sikh: dissolved into haumai / Jain: mithyadarsana (Tattvartha 8.1)"
+      },
+      "cbt_distortion": "THIS IS the schema layer — the master misperception manufacturing every surface distortion",
+      "mechanism": "LOAD-BEARING ROW. Buddhism, Yoga, Beck converge: affect-vices are secondary, a prior cognitive error is the generator. Exposes the deepest disagreement: vice starts in the will (Augustine) or intellect (Buddha/Beck)?"
+    }
+  ],
+  "cross_cutting": [
+    {"name": "emotional reasoning / false assent", "note": "the universal engine; Stoic sunkatathesis is its exact anatomy — but Stoa->Ellis->Beck is INHERITANCE not convergence"},
+    {"name": "reification of a defending self", "note": "asmita / ahankara / sakkaya-ditthi / nafs / haumai / Beck core self-schema; what the engine defends"}
+  ],
+  "hard_breaks": [
+    "sloth/acedia: no clean cognate; Islam reverses valence; the vice CBT explains best is the one religions barely name",
+    "Jain maya (deceit): no slot in seven sins OR CBT — interpersonal-strategic, not appraisal-error",
+    "envy: absent from Sikh five & Jain four; a late Gregorian editorial insert",
+    "delusion/ignorance: Indic root with ZERO Christian slot; conversely the sins' juridical core has no Buddhist/Jain/CBT cognate",
+    "external tempter (Shaytan waswasa, Zoroastrian daevas): breaks the interiority both Augustine and Beck assume",
+    "drive-is-good-when-channeled (Vedic kama, yetzer hara 'very good'): sin-frame cannot represent it",
+    "CBT internal: distortions are many-to-many with vices; several popular distortions are research-baseless folklore; Egyptian 42 Confessions = denied DEEDS not inner states (category error)"
+  ]
+}
