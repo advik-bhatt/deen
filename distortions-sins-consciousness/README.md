@@ -6,6 +6,8 @@
 
 > **Decode of the garbled nouns:** *"Shadrupu"* → **Ṣaḍripu / Ariṣaḍvarga**, the six enemies of Hindu ethics. *"The Quran flood"* → the canonical **ʿUthmanic muṣḥaf** (the standardized Quran). *"The first version of whatever Judaism uses"* → the **Tanakh**. *"Every single Veda"* → Ṛg, Sāma, Yajur, Atharva, and the Upaniṣads that close them. Plus the **Bhagavad Gītā**, the **Pali Canon**, and the **Gurū Granth Sāhib**. If any decode is wrong, one line fixes it and this dossier gets re-pointed.
 
+> **Continuation:** his response to this dossier's verdict — "strip the cultural layer entirely; the real convergence is in the ego-free core" — is researched and answered in [`../the-residue/`](../the-residue/).
+
 **Swept:** 2026-07-25 · **Method:** [`.claude/skills/deep-research`](../../knowledge-base/.claude/skills/deep-research/SKILL.md) · 11-agent fan-out (8 primary-text lanes + synthesis + red team + citation verifier), 647K research tokens · **Standing agent:** see §9.
 
 ---
