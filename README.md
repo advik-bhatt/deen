@@ -2,9 +2,9 @@
 
 > If you're not doing something no one's ever done before then what are you doing?
 
-Deen is where I work on the oldest problem there is with the same filter I
-apply to everything else: find the map nobody has drawn, and draw it so that
-anyone with a mind can use it.
+Deen means "the way." This is where I work on the oldest problem there is with
+the same filter I apply to everything else: find the map nobody has drawn, and
+draw it so that anyone with a mind can use it.
 
 ## The Grammar of the Broken Mind
 
