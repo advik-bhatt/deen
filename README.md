@@ -3,8 +3,8 @@
 > If you're not doing something no one's ever done before then what are you doing?
 
 Deen is where I work on the oldest problem there is with the same filter I
-apply to everything else: find the map I couldn't find drawn anywhere, and
-draw it so that anyone with a mind can use it.
+apply to everything else: find the map nobody has drawn, and draw it so that
+anyone with a mind can use it.
 
 ## The Grammar of the Broken Mind
 
@@ -14,10 +14,11 @@ Tanakh, the Vedas and Upaniṣads, the Bhagavad Gītā, the Pali Canon, and the
 Gurū Granth Sāhib — over each other, and then over the cognitive distortions
 of modern CBT, until the same underlying structure shows through the gaps.
 
-The working thesis: tradition after tradition, working largely independently,
-converged on nearly the same short list of ways a mind turns against itself —
-and twentieth-century cognitive science, starting over from scratch and
-refusing all the theology, rediscovered that list and relabeled it. Pride, mada, kibr, gaʾavah, ahaṅkāra, and
+The working thesis: at least seven independent civilizations, with no shared
+vocabulary and centuries of no contact, converged on nearly the same short
+list of ways a mind turns against itself — and twentieth-century cognitive
+science, starting over from scratch and refusing all the theology, rediscovered
+that list and relabeled it. Pride, mada, kibr, gaʾavah, ahaṅkāra, and
 "grandiosity" may not be six things that resemble each other. They may be one
 continuous structure that six cultures each drew a different border around —
 the same way OCD, ADHD, and dyslexia are real phenomena with arbitrary fences.
