@@ -27,11 +27,18 @@ I couldn't find that comparison drawn end to end anywhere, with the theology
 and the clinical literature on the same table and the failures of the mapping
 reported as honestly as the matches. So it's being drawn here.
 
-**Status:** early. The fixed framing is committed
-([`distortions-sins-consciousness/_scaffold.md`](distortions-sins-consciousness/_scaffold.md));
-the researched sections — the parallel table, the per-tradition loci, the CBT
-layer, the thesis and its strongest counterarguments — are still to come. When
-they land, every load-bearing citation will carry a confidence mark, and the
-scaffold's own caveat holds throughout: this is a synthesis, not a
-scripture-fetch, and chapter-and-verse numbers stay flagged until checked
-against primary sources. The honest verdict goes at the bottom, not the top.
+**Status:** two dossiers landed. The parallel table, the per-tradition loci, the
+CBT layer, and the thesis with its strongest counterarguments are drawn in
+[`distortions-sins-consciousness/`](distortions-sins-consciousness/); the
+contemplative-core follow-up — what survives when you strip ego, matter, sense,
+and emotion — is in [`the-residue/`](the-residue/). Every load-bearing citation
+carries a confidence mark, this is a synthesis, not a scripture-fetch, and
+chapter-and-verse numbers stay flagged until checked against primary sources.
+The honest verdict goes at the bottom, not the top.
+
+**The criterion.** One rule governs every shelf in this repo: the Quran is the
+measure the rest is weighed against — it names itself the Criterion (Q 25:1) —
+not one exhibit among the catalogues. The scholarship here is data, and it is
+reported at full strength either way; but where a cited author's frame
+contradicts the Quran, the frame is recorded as *theirs*, never adopted as the
+verdict of the page.
