@@ -5,6 +5,19 @@ discipline: all work commits directly to main, no worktrees, no feature
 branches; commit author Advik Bhatt <advik.bhatt@gmail.com>; no model IDs
 in commit messages).
 
+## Public record: verbatim, no filter (founder, Jul 26 2026)
+
+deen is public and stays public; open-sourcing the work is the point.
+The profanity filter on founder quotes is rescinded — quotes land
+verbatim, cursing included. Naming his diagnoses (ADHD, OCD, anxiety
+disorder) is fine on any surface here; he is open about them.
+
+The one boundary that stands: **no private experiential detail.**
+Specific episodes, session content, prompt history, and anything else
+from the private log never lands in deen — that material lives in the
+private knowledge-base only. Only the public research is pushed here.
+When in doubt: publish the research, keep the experience private.
+
 ## Merge desk (multi-thread pushes)
 
 Parallel Claude threads share `main`. Never raw `git push`; push via
