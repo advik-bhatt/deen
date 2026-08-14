@@ -27,19 +27,14 @@ I couldn't find that comparison drawn end to end anywhere, with the theology
 and the clinical literature on the same table and the failures of the mapping
 reported as honestly as the matches. So it's being drawn here.
 
-**Status:** three dossiers landed. The parallel table, the per-tradition loci, the
+**Status:** two dossiers landed. The parallel table, the per-tradition loci, the
 CBT layer, and the thesis with its strongest counterarguments are drawn in
 [`distortions-sins-consciousness/`](distortions-sins-consciousness/); the
 contemplative-core follow-up — what survives when you strip ego, matter, sense,
-and emotion — is in [`the-residue/`](the-residue/); and its physical companion,
-what remains when the universe annihilates almost all of itself — the matter
-residue that survived, the conserved core that never leaves, the balance held to
-one part in a billion trillion — is in [`the-weight-of-being/`](the-weight-of-being/),
-which is also where the honest limit lives on what physics can and cannot say
-about good over evil. Every load-bearing citation carries a confidence mark, this
-is a synthesis, not a scripture-fetch, and chapter-and-verse numbers stay flagged
-until checked against primary sources. The honest verdict goes at the bottom, not
-the top.
+and emotion — is in [`the-residue/`](the-residue/). Every load-bearing citation
+carries a confidence mark, this is a synthesis, not a scripture-fetch, and
+chapter-and-verse numbers stay flagged until checked against primary sources.
+The honest verdict goes at the bottom, not the top.
 
 **The criterion.** One rule governs every shelf in this repo: the Quran is the
 measure the rest is weighed against — it names itself the Criterion (Q 25:1) —
